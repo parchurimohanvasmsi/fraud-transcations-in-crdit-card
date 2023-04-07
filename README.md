@@ -1,2 +1,6 @@
-# fraud-transcations-in-crdit-card
- this an mini project using ML algorithims
+# fraud-transcations-in-credit-card
+ ML algorithims
+random forest, SVM< Linear regression.
+Python
+VS code,GITHUB,Kaggle
+
